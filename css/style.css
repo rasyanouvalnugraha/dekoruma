@@ -1,0 +1,11 @@
+* {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#intro {
+    background: rgb(0, 212, 243);
+    background: linear-gradient(302deg, rgba(0, 212, 243, 1) 25%, rgba(22, 111, 255, 1) 50%, rgba(0, 43, 112, 1) 75%);
+    color: white;
+    z-index: 20;
+}
